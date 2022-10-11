@@ -1,0 +1,10 @@
+---
+title: "HelloWorld"
+author: "IrynaASialiutsina12"
+date: "`r Sys.Date()`"
+output:
+  word_document: default
+  pdf_document: default
+---
+
+## This is a markdown file
